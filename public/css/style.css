@@ -1,0 +1,49 @@
+body{
+    /*background-color: aqua;*/
+   /* background-image:url('../img/art1') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+*/
+background:url('../img/art1') no-repeat top right;
+background-size: cover;
+}
+
+
+
+#pfinal{
+    color: red;
+    font-size: 18px;
+    border: 1px solid yellow;
+    color: blueviolet;
+}
+.ptest{
+  background-color: pink;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    text-align: right;
+    font-weight: bold; /* cette propriété rend le texte gras*/
+}
+.btn-valide{
+    border: 1px solid rgba(24, 186, 23, 0.995);
+    background-color:#41ea5b ;
+    border-radius: 5px;
+
+    font-family: sans-serif;
+    font-size: 25%;
+    text-decoration: none;
+    color: white;
+
+    padding: 5px 10px;
+
+
+}
+.btn-valide:hover{
+     background-color: #41ea5b;
+}
+
+
+
+
